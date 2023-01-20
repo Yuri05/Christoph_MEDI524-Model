@@ -1,5 +1,5 @@
-# COMPOUND-Model
-**_tbd._**
+# MEDI-524-Model
+Whole-body PBPK model of the antibody MEDI-524 in monkeys. 
 
 ## Repository files
 **_tbd._**
