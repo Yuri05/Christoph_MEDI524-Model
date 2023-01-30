@@ -4,5 +4,5 @@ MEDI-524 shows a pharmacokinetic behavior which is typical for an antibody witho
 
 The herein presented evaluation report evaluates the performance of the PBPK model for MEDI-524 in cynomolgus monkeys for the PK data used for the development of the generic large molecule model in PK-Sim.
 
-The presented MEDI-524 PBPK model as well as the respective evaluation plan and evaluation report are provided open-source (https://github.com/.../Compound-model).
+The presented MEDI-524 PBPK model as well as the respective evaluation plan and evaluation report are provided open-source (https://github.com/Open-Systems-Pharmacology/MEDI524-Model).
 
